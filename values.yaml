@@ -1,4 +1,4 @@
-project: <username>-jump-app
+project: alopezme-jump-app
 pod:
   replicas: 1
   port: 3000
